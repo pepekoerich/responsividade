@@ -1,0 +1,28 @@
+unidades de medida relativas
+
+%-medida proportcional ao elemento pai 
+em-relativo ao tamanho da fonte de um elemento pai
+rem-relativo ao tamanho da fonte do elemento raiz
+vw: proporcional a largura do viewport; 1vw = 1% da largura da tela
+vh: proprocinal a altura do viewport; 1vh = 1% da largura da tela
+
+box-sizing: border-box, o tamanho de todos os elementos vai contemplar margem, padding e etc, deixar o tamanho real.
+
+flex-direction
+column, row, column-reverse, row-reverse
+
+flex-wrap
+wrap, nowrap, wrap-reverse
+
+flex-flow
+row wrap, column wrap
+
+justify-content
+center, left, right, space-around, space-between, space-evenly
+
+align-items controla alinhamento dos itens no eixo transversal
+flex-start, flex-end, center
+
+align-content controla o espaço entre as linhas no eixo transversal
+
+align-self controla o alinhamento individual de um item no eixo transversal
